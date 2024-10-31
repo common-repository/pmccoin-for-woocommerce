@@ -1,0 +1,139 @@
+.pb-2 {
+    padding-bottom: 20px !important;
+}
+
+.terms-checkbox {
+    top: -3px !important;
+    position: relative !important;
+}
+
+.dg_capital-transaction-msg {
+    background-color: lightgrey !important;
+    border: 1px darkgrey solid !important;
+    padding: 5px !important;
+    margin-bottom: 10px !important;
+}
+
+.swal2-header {
+    background: #32357B !important;
+}
+
+.popup-checkout-img {
+    height: 62px !important;
+}
+
+#swal2-content {
+    padding-top: 20px !important;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+
+.font-13 {
+    font-size: 13px !important;
+}
+
+.three-icons {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: space-around !important;
+    padding: 0px 100px 0px 100px !important;
+}
+
+.three-labels {
+    padding: 10px 0px 10px 0px !important;
+    font-weight: 700 !important;
+    font-size: 13px !important;
+}
+
+.text-green {
+    color: #66bc46 !important;
+}
+
+.text-blue {
+    color: #029ed0 !important;
+}
+
+.text-pink {
+    color: #df4097 !important;
+}
+
+.pt-3 {
+    padding-top: 30px !important;
+}
+
+.swal2-styled.swal2-confirm {
+    background: orange !important;
+    padding: 13px 60px 13px 60px !important;
+    font-size: 16px !important;
+    font-weight: 600 !important ;
+    border: none !important;
+}
+
+.swal2-cancel.swal2-styled {
+    background: transparent !important;
+    color: #029ed0 !important;
+    border: 0 !important;
+    font-size: 10px !important;
+    text-decoration: underline !important;
+    text-transform: capitalize !important;
+}
+
+.swal2-actions {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    flex-direction: column !important;
+    align-self: center !important;
+    justify-content: center !important;
+}
+
+.swal2-popup.swal2-modal {
+    padding:0px;
+    padding-bottom: 1.25em;
+}
+
+img[alt="PMC Gold icon"] {
+    max-height: initial!important;
+    background-color: #32357B;
+    width: 90px!important;
+    padding: 7px!important;
+}
+
+.check-block {
+    text-align: left!important;
+    padding: 0px 50px 0px 50px !important;
+}
+
+@media (max-width: 410px) 
+{
+    .three-icons {
+        padding: 0px 0px 0px 0px !important;
+    }
+}
+
+.horn-icon {
+    margin: 0 auto;
+}
+
+.emoji-sad {
+    margin: 0 auto;
+    width: 53px;
+    height: 53px;
+}
+
+.swal2-close:hover {
+    color: #ffffff !important;
+}
+
+.swal2-close {
+    background-color: #32357B !important;
+    margin-top: 12px !important;
+}
+
+.swal2-footer {
+    margin: -0.75em 0 0 !important;
+    border-top: 0px !important;
+}
+
+.text-justify {
+    text-align: justify
+}
